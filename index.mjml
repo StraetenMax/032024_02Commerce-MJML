@@ -44,14 +44,11 @@
 <!--Texte-->
     <mj-section background-color="#ffffff" padding="0px">
         <mj-column padding="10px 60px" css-class="M-padding">
-            <mj-text padding="0" align="left" font-family="Roboto, Arial, sans-serif" font-size="24px" font-weight="700" color="#AA3E17" line-height="30px">
-                Connais-tu l'adage
-            </mj-text>
-            <mj-text padding="0" align="left" letter-spacing="-1px" font-family="Roboto, Arial, sans-serif" font-size="31px" font-weight="500" color="#EC6608" text-transform="uppercase" line-height="35px">
-                Premier arrivé Premier servi ?
-            </mj-text>
+            <mj-text padding="0" align="left" font-family="Roboto, Arial, sans-serif" font-size="24px" font-weight="300" color="#AA3E17" line-height="30px">
+                Tourcoing et environs, notre partenaire en <span style="font-weight:700;"> Téléphonie Mobile</span> recherche un(e) <span style="font-weight:700;">conseiller(ère) commercial(e) en boutique</span> dans le cadre d'une alternance.
+            </mj-text>    
             <mj-text padding="6px 0 0 0" align="left" font-family="Roboto, Arial, sans-serif" font-size="16px" font-weight="400" color="#363A47" line-height="18px">
-                {{PRENOM}}, tu as montré ton intérêt pour notre <span style="font-weight:700;">BTS MCO en alternance</span>. Ta candidature a retenu toute notre attention. Aussi rencontrons-nous pour un <span style="font-weight:700;" >entretien de motivation</span> et choisir au plus vite l'entreprise où tu feras ton alternance ! 
+                {{PRENOM}}, ce contrat d'alternance complétera à merveille ta formation en <span style="font-weight:700;">BTS MCO</span>, d'autant plus que ta candidature a retenu toute notre attention. Rencontrons-nous lors d'un <span style="font-weight:700;">entretien de motivation</span> pour concrétiser rapidement tes choix !  
             </mj-text>
         </mj-column>
     </mj-section>
@@ -64,7 +61,7 @@
         </mj-button>      
         </mj-column>
         <mj-column padding="10px 60px 10px 8px" css-class="Mbr-padding" width="50%">
-           <mj-button  css-class="Mb-button" padding="0" href="#" font-family="Roboto, arial, sans-serif" font-size="16px" font-weight="500" background-color="#EC6608" color="#ffffff" align="left" border-radius="10px">
+           <mj-button  css-class="Mb-button" padding="0" href="#" font-family="Roboto, Arial, sans-serif" font-size="16px" font-weight="500" background-color="#EC6608" color="#ffffff" align="left" border-radius="10px">
             inscris-toi
            </mj-button> 
         </mj-column>
@@ -73,6 +70,9 @@
 <!--Signature-->
 <mj-section background-color="#ffffff" padding="0px" css-class="M-padding">
     <mj-column padding="10px 60px 30px 310px" >
+        <mj-text padding="0" align="left" css-class="M-align" font-family="Roboto, Arial, sans-serif" font-size="16px" font-weight="400" color="#363A47" line-height="18px">
+            À bientôt !
+        </mj-text>
         <mj-text padding="0" align="left" css-class="M-align" font-family="Roboto, Arial, sans-serif" font-size="16px" font-weight="400" color="#363A47" line-height="18px">
             Marie Laurence Wallaert
         </mj-text>
